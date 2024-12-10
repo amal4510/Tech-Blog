@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/tech-blog",
+    "prod_uri": "mysql+pymysql://root:@localhost/tech-blog",
+    "fb_url": "facebook.com/techblog",
+    "about_text": "Hii all.. My name is Amal Manoj and I'm a techy learning new languages and frameworks. Do follow me for  my project and guidance",
+    "no_of_post": 2,
+    "admin_user": "amal",
+    "admin_pass": "4510"
+  }
+}
+
+
